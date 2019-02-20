@@ -3,6 +3,7 @@ package Pckg1;
 public class Arithmetic1 {
 int a;
 int b;
+int c;
 
 public int sum(int a, int b)
 {
